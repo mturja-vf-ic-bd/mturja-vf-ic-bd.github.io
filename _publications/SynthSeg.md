@@ -7,3 +7,5 @@ date: 2022
 venue: 'MIDL 2022'
 paperurl: 'https://proceedings.mlr.press/v172/shang22a.html'
 ---
+
+[Download paper here](https://proceedings.mlr.press/v172/shang22a.html
